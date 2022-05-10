@@ -1,2 +1,6 @@
-# exmple-repo
-This is a simple demo on how to use GitHub
+# exmple-reporitory
+
+##This is my second heading
+## This is my third heading
+
+This is an example of markdown file.
